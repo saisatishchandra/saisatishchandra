@@ -18,7 +18,7 @@
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.Tech – Computer Science | KKR & KSR ITS, Guntur | 2021–2025 | 8.2/10 |
+| B.Tech – Computer Science | KKR & KSR ITS, Guntur | 2021–2025 | 8.34/10 |
 | Intermediate | Sri Chaitanya Jr College | 2019–2021 | 95.2% |
 | SSC | Srinivasa High School | 2018–2019 | 10.0 GPA |
 
@@ -61,6 +61,7 @@
 
 ## 📜 Certifications
 
+- 🏅 **ServiceNow Certified  Application Developer** – *June 2025*  
 - 🏅 **ServiceNow Certified System Administrator** – *April 2025*  
 - 🏅 **Wipro Java Full Stack Developer** – *September 2024*  
 - 🏅 **PMKVY Junior Software Developer** – *March 2024*
