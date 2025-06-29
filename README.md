@@ -1,96 +1,87 @@
-<h1 align="center">Hi there 👋, I'm Sai Satish Chandra Mallavarapu</h1>
-<h3 align="center">Software Developer | Backend Enthusiast | Java | Python | Spring Boot | ServiceNow</h3>
+<h1 align="center">Hi, I'm Sai Satish Chandra Mallavarapu 👋</h1>
+<h3 align="center">Backend Developer • Java | Python | Spring Boot | ServiceNow Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Passionate+about+Tech+%F0%9F%94%A5;Always+learning+and+building!&center=true&width=380&height=45&color=58a6ff&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Building+Innovative+Solutions+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👤 Name
-**Sai Satish Chandra Mallavarapu**
-
-## 💼 Role
-**Aspiring Software Developer** focused on backend technologies and workflow automation.
-
----
-
-## 🧾 Professional Summary
-A passionate Computer Science undergraduate with a solid foundation in software development, backend systems, and automation. Experienced with Java, Python, Spring Boot, SQL, and ServiceNow. Strong in critical thinking and known for leadership, especially in collaborative environments like sports and team projects. Actively exploring new technologies and building real-world applications to solve practical problems.
+## 👨‍💻 About Me
+- 🎓 Computer Science Engineering student at KKR & KSR Institute of Tech, Guntur
+- 🔧 Strong foundation in Java, Python, Spring Boot, SQL, and automation with ServiceNow
+- 🚀 Building impactful backend projects and full-stack apps for real-world needs
 
 ---
 
-## 🎓 Education
-- 🎓 **B.Tech in Computer Science and Engineering**,  
-  KKR & KSR Institute of Technology and Sciences, Guntur  
-  **CGPA**: 8.2 / 10 (2021–2025)
+## 📚 Education
 
-- 📘 **Intermediate**,  
-  Sri Chaitanya Boys Jr College, Guntur  
-  **Percentage**: 95.2% (2019–2021)
-
-- 📗 **SSC**,  
-  Srinivasa High School, Guntur  
-  **GPA**: 10.0 / 10.0 (2018–2019)
+| Degree | Institution | Year | Score |
+|--------|-------------|------|-------|
+| B.Tech – Computer Science | KKR & KSR ITS, Guntur | 2021–2025 | 8.2/10 |
+| Intermediate | Sri Chaitanya Jr College | 2019–2021 | 95.2% |
+| SSC | Srinivasa High School | 2018–2019 | 10.0 GPA |
 
 ---
 
-## 🚀 Currently Working Repos
+## 🏗️ Currently Working Repos
 
-🌟 Here are some repositories I’m currently working on:
-
-- 🔧 [DualPay](https://github.com/your-github-username/DualPay): Dual-mode payment ecosystem bridging cash and digital payments.
-- 📦 [Friendly Farmer](https://github.com/your-github-username/Friendly-Farmer): Empowering farmers with a direct digital marketplace.
-- 👁️ [Hand Detection Safety System](https://github.com/your-github-username/Hand-Detection-Safety): Real-time safety mechanism using Python, OpenCV & NodeMCU.
-
-> _*(Replace the repo links above with the actual GitHub URLs if they are public)*_
+- 🔄 [Aashay‑The‑Bot](https://github.com/saisatishchandra/Aashay-The-Bot): A trainable chatbot built with Python and AI
+- 🧠 [DualPay](https://github.com/saisatishchandra/DualPay): Dual-mode payment system enabling cash-to-digital transactions
+- 🌾 [Friendly Farmer](https://github.com/saisatishchandra/Friendly-Farmer): Empowering local farmers through a web marketplace
+- ✋ [Hand Detection Safety System](https://github.com/saisatishchandra/Hand-Detection-Safety): Real-time machinery safety system using OpenCV & ESP8266
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-satish-chandra-mallavarapu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saisatishchandra&show_icons=true&theme=radical" alt="GitHub Stats">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-satish-chandra-mallavarapu&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sai-satish-chandra-mallavarapu&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=saisatishchandra&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🔤 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisatishchandra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Java, Python, SQL, JavaScript  
-- **Frameworks/Tech:** Spring Boot, ServiceNow  
-- **Tools:** VS Code, Postman
+- 💻 Languages: Java, Python, SQL, JavaScript  
+- 🚀 Frameworks: Spring Boot, Flask  
+- 🧰 Tools: ServiceNow, Postman, VS Code, Git & GitHub
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **ServiceNow Certified System Administrator** — *April 2025*  
-- ✅ **Wipro Java Full Stack Developer** — *September 2024*  
-- ✅ **PMKVY Junior Software Developer** — *March 2024*
+- 🏅 **ServiceNow Certified System Administrator** – *April 2025*  
+- 🏅 **Wipro Java Full Stack Developer** – *September 2024*  
+- 🏅 **PMKVY Junior Software Developer** – *March 2024*
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 First Prize in **Critical Thinking** at KITS, Guntur  
-- 🏏 Won **Cricket Championship** as an all-rounder and team leader  
-- 🏐 Contributed to victories in **college-level Volleyball** under pressure situations
+- 🥇 Winner – Critical Thinking Event, KITS Guntur  
+- 🏏 Cricket Championship Winner – All-rounder & Captain  
+- 🏐 College-level Volleyball Competitor
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-- 📧 Email: [satishmallavarapu111@gmail.com](mailto:satishmallavarapu111@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sai-satish-chandra-mallavarapu-47aab9243](https://linkedin.com/in/sai-satish-chandra-mallavarapu-47aab9243)
+- 📧 **Email:** [satishmallavarapu111@gmail.com](mailto:satishmallavarapu111@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/sai-satish-chandra-mallavarapu-47aab9243](https://linkedin.com/in/sai-satish-chandra-mallavarapu-47aab9243)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
-
