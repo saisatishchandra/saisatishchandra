@@ -7,6 +7,10 @@
 
 ---
 
+## 💼 Professional Summary
+A highly motivated and detail-oriented Computer Science graduate with a strong foundation in software development, object-oriented programming, and backend technologies. Proficient in Java, Python, SQL, and Spring Boot, with hands-on experience building full-stack applications and workflow automation using ServiceNow. Adept at problem-solving, collaborating in team environments, and applying technical knowledge to develop practical solutions. Passionate about learning emerging technologies and eager to contribute meaningfully to innovative software projects. Currently seeking opportunities to grow as a backend developer and make a lasting impact in the tech industry.
+
+---
 ## 👨‍💻 About Me
 - 🎓 Computer Science Engineering student at KKR & KSR Institute of Tech, Guntur
 - 🔧 Strong foundation in Java, Python, Spring Boot, SQL, and automation with ServiceNow
