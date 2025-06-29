@@ -24,14 +24,7 @@
 
 ---
 
-## 🏗️ Currently Working Repos
 
-- 🔄 [Aashay‑The‑Bot](https://github.com/saisatishchandra/Aashay-The-Bot): A trainable chatbot built with Python and AI
-- 🧠 [DualPay](https://github.com/saisatishchandra/DualPay): Dual-mode payment system enabling cash-to-digital transactions
-- 🌾 [Friendly Farmer](https://github.com/saisatishchandra/Friendly-Farmer): Empowering local farmers through a web marketplace
-- ✋ [Hand Detection Safety System](https://github.com/saisatishchandra/Hand-Detection-Safety): Real-time machinery safety system using OpenCV & ESP8266
-
----
 
 ## 📊 GitHub Activity
 
